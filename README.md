@@ -11,7 +11,7 @@ The website is hosted in Github. Hosted URL: https://ninad100.github.io/StockMar
 # Features
 1. All the Listed Stocks
 2. Their charts.
-3. The chart filter based on the duration of 1 year, 3 months etc.
+3. The chart filter based on the duration of 1 Month, 3 Months, 1 Year, 5 Years etc.
 4. The details of the requested stock.
 
 ## Technology Used:
