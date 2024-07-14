@@ -5,6 +5,9 @@
 This application is purely front end based application designed for the Stock Market analysis. There is no backend involved in this application.
 The online API endpoints are used to develop the web interface.
 
+## Hosting Link
+The website is hosted in Github. Hosted URL: https://ninad100.github.io/StockMarketApp.io/
+
 # Features
 1. All the Listed Stocks
 2. Their charts.
