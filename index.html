@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stock Market Website</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <h1 style="color: white; margin-left: 30%;">Stock Market Analysis</h1>
+    <div id="main-div" class="main-class">
+
+    <div style="display: inline-block;">
+
+    <!-- Chart section of HTML-->
+
+    <div id="chart-div" class="chart-class">
+
+        <div id="chart-elemet" class="chart-class">
+            <div id="minmaxdiv">
+                <p id="min-value-chart">
+                    Max Value:
+                </p>
+                <p id="max-value-chart">
+                    Min Value:
+                </p>
+
+            </div>
+
+
+        </div>
+        <div id="chart-btn" class="chart-class">
+            <button id="1month">1 Months</button>
+            <button id="3month">3 Months</button>
+            <button id="year">1 Year</button>
+            <button id="5year">5 Years</button>
+
+        </div>
+
+    </div>
+
+    <!--The description section Div for selected Stock-->
+
+    <div id="description-div" class="description-class">
+
+
+    </div>
+</div>
+
+<!--Aside section div listing all the stocks-->
+    <div id="aside-data" class="aside-data" style="display: inline-block;">
+        
+
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="script.js"></script>
+</body>
+
+
+
+</html>
